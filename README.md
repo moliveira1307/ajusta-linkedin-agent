@@ -15,11 +15,11 @@ Agente de IA criado para ajudar profissionais de tecnologia, dados e inovação 
 
 Ver o diretorio /exemplos
 
-## 📎 Documentos de apoio
+## 📎 Arquivos de apoio
 
 Você pode incluir esses arquivos no seu próprio agente:
 
-| Documentos                              | Descrição                                                                 |
+| Arquivos                              | Descrição                                                                 |
 |-------------------------------------|---------------------------------------------------------------------------|
 | Exemplos de Headlines Eficazes      | Modelos reais, separados por setor (TI, dados, inovação etc.)             |
 | Guia Rápido: Posicionamento Profissional | Dicas estratégicas sobre branding e palavras-chave                     |
