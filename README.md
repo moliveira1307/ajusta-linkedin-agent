@@ -13,7 +13,7 @@ Agente de IA criado para ajudar profissionais de tecnologia, dados e inovação 
 
 ## Exemplos de Uso
 
-Ver o diretorio /exemplos
+Ver o diretorio /exemplos (em breve)
 
 ## 📎 Arquivos de apoio
 
@@ -39,9 +39,11 @@ Você pode incluir esses arquivos no seu próprio agente:
 
 ---
 📽️ Tutorial
+
 Assista aqui: link do vídeo (em breve)
 
 🧪 Em Desenvolvimento
+
 Versão com Streamlit
 
 
